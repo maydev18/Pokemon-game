@@ -1,0 +1,14 @@
+3
+Aish 3
+pikachu electric 100 20
+ryachu fire 200 50
+bulbasor water 300 10
+
+Misty 2
+psyduck electric 100 5
+charmendor fire 500 100
+
+Brock 3
+snorlax water 50 5
+charizard fire 1000 1000
+blastoise water 200 800
